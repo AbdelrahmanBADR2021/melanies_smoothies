@@ -2,3 +2,4 @@
 snowflake
 streamlit
 snowflake-snowpark-python
+requests
